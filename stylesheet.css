@@ -15,6 +15,14 @@ h2{
     margin-left: 1em;
 }
 
+h3{
+    font-family: 'Sawarabi Mincho', serif;
+    margin-left: 2em;
+}
+.about{
+    margin-left: 2.5em;
+}
+
 ul {
     list-style: none;
     text-align: center;
