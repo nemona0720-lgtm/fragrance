@@ -130,3 +130,6 @@ figcaption {
     max-width: 600px;
     text-align: left; 
 }
+.URL:hover {
+    color: #FFD700;
+}
