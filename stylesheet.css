@@ -35,6 +35,10 @@ p{
     font-size: 20px;
 }
 
+.system b {
+    color: #C9A24D;
+}
+
 ul {
     list-style: none;
     text-align: center;
