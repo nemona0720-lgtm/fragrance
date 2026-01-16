@@ -3,16 +3,19 @@ body{
     color: white;
 }
 
-h1{
+h1 {
     font-family: 'Cherry Swash', cursive;
+    color: #C9A24D;
     font-size: 60px;
-    padding-left: 0.5em;
-    padding-bottom: 1em;
+    border-bottom: 1px solid #C9A24D;
 }
 
 .jump{
     color: white;
     padding-left: 3em;
+}
+.jump:hover {
+  color: #FFD700;
 }
 
 h2{
