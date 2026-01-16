@@ -30,6 +30,11 @@ h3{
     padding-left: 2em;
     font-size: 30px;
 }
+.about{
+    font-family: 'Shippori Mincho', serif;
+    font-size: 18px;
+    line-height: 2.4;
+}
 p{
     padding-left: 3em;
     font-size: 20px;
