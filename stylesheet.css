@@ -30,7 +30,7 @@ body{
   border: 3px solid black;
   padding: 10px 0;
   text-align: center;
-  background-color: #ffffff;
+  background-color: white;
 }
 .calendar__cell.is-holiday {
   color: ;
