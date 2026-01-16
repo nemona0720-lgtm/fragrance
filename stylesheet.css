@@ -46,6 +46,7 @@ li {
 img {
     width: 350px;
     height: 350px;
+    border: 2px solid #C9A24D;
 }
 figcaption {
     font-size: 20px;
