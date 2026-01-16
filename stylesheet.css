@@ -30,9 +30,8 @@ body{
   border: 3px solid black;
   padding: 10px 0;
   text-align: center;
-  background-color: white;
+  background: white;
 }
 .calendar__cell.is-holiday {
-  color: ;
-  background-color: rgb(202, 202, 202);
+  background: rgb(202, 202, 202);
 }
